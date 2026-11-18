@@ -110,10 +110,10 @@ A reusable variance-analysis dashboard built on a **simulated dataset** (2,304 A
 ## 🤝 Let's Connect
 
 I'm looking for a team where I can learn quickly and be useful from week one. If you have an internship or entry-level role in data, MIS or finance analytics, I'd love to hear from you.
-
+<div align="center">
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujalsaha/)
 [![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahasujalbaidyanath06@gmail.com)
 
-<div align="center">
+
 <sub><i>"Data is not just numbers. It's the language of better decisions."</i></sub>
 </div>
